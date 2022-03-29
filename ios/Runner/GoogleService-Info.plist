@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>837037863763-3m3c6qk8lsf03ktfgd7q06l64oam1peg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.837037863763-3m3c6qk8lsf03ktfgd7q06l64oam1peg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>837037863763-fck1d5pgpvjpejcg5g1ipkim7kjlpr3v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDkwM5EuDO7-2vumEmO0OwqxQf1N_7IoXc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>837037863763</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.primusfresh</string>
+	<key>PROJECT_ID</key>
+	<string>primus-f8775</string>
+	<key>STORAGE_BUCKET</key>
+	<string>primus-f8775.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:837037863763:ios:77b992f671aac6a13fe7a6</string>
+</dict>
+</plist>

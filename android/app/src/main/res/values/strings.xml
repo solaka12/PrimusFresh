@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Primus Fresh</string>
+    <string name="facebook_app_id">primusfresh102030</string>
+               <string name="fb_login_protocol_scheme">fbprimusfresh102030</string>
+</resources>
