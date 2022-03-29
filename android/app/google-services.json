@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "837037863763",
+    "project_id": "primus-f8775",
+    "storage_bucket": "primus-f8775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837037863763:android:4a38cbeb0554d6ff3fe7a6",
+        "android_client_info": {
+          "package_name": "com.flutterflow.primusfresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837037863763-fck1d5pgpvjpejcg5g1ipkim7kjlpr3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.primusfresh",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "837037863763-2rpkdkpo4atdqn9q6rgl7u4viqfhnma2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-G2f2kuscqAn_rIFHsnAEIp1BKvyUMHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837037863763-2rpkdkpo4atdqn9q6rgl7u4viqfhnma2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "837037863763-3m3c6qk8lsf03ktfgd7q06l64oam1peg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.primusfresh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
