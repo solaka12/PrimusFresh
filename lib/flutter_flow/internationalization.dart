@@ -44,43 +44,43 @@ class FFLocalizationsDelegate extends LocalizationsDelegate<FFLocalizations> {
 final kTranslationsMap = <Map<String, Map<String, String>>>[
   // PageLogin
   {
-    'dim30ljy': {
+    'c3woo4lp': {
       'en': 'Sign In',
       'fr': '',
     },
-    'd2qhi3qc': {
+    '3rqr4ug6': {
       'en': 'Sign Up',
       'fr': '',
     },
-    'ndi7jnww': {
+    '7hqagv9l': {
       'en': 'Get started by creating an account below.',
       'fr': '',
     },
-    'iqj4hk5q': {
+    'zhspjeej': {
       'en': 'Your email address...',
       'fr': '',
     },
-    'xt7x070t': {
+    'gc2ovoq7': {
       'en': 'Enter your email...',
       'fr': '',
     },
-    'imgv6w4u': {
+    '7zs70zd8': {
       'en': 'Password',
       'fr': '',
     },
-    'gxxq7v41': {
+    'tdj851b6': {
       'en': 'Enter your email...',
       'fr': '',
     },
-    '4jsbz1ny': {
+    'i06k3gx4': {
       'en': 'Login',
       'fr': '',
     },
-    '7o30k6m9': {
+    'qcsl61i2': {
       'en': 'Continue as Guest',
       'fr': '',
     },
-    'haabi5m0': {
+    '1pd8mesm': {
       'en': 'Home',
       'fr': '',
     },
